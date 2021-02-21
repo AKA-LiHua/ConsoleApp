@@ -1,0 +1,7 @@
+D:\LiHua\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\LiHua\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\LiHua\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\LiHua\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\LiHua\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\LiHua\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\LiHua\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
